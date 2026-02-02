@@ -1,15 +1,8 @@
-# Python
 .venv/
 __pycache__/
 *.pyc
-
-# Secrets / OAuth
 credentials.json
 token.json
-
-# Personal data
-emails.txt
+emails*.txt
 *.pdf
-
-# OS
 .DS_Store
