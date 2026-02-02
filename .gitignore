@@ -6,3 +6,12 @@ token.json
 emails*.txt
 *.pdf
 .DS_Store
+
+credentials.json
+token.json
+emails*.txt
+*.pdf
+.venv/
+__pycache__/
+.DS_Store
+
